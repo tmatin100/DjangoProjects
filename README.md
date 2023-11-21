@@ -38,10 +38,10 @@ Follow these steps to set up and run the application:
    django-admin startproject config .
    ```
 
-5. Create a Django app named test_app
+5. Create a Django app named test_app:
 
-   ```python
-  django-admin startapp test_app
+   ```bash
+   on Windows: venv\Scripts\activate )
    ```
 6. Run the server:
 
