@@ -10,7 +10,7 @@ Follow these steps to set up and run the application:
    https://github.com/tmatin100/DjangoProjects
 
 
-3. Cd into any sample project and Create a virtual environment and install dependencies:
+3. Change directory into any sample project and Create a virtual environment and install dependencies:
    ```bash
    cd django_rest_framework
    ```
@@ -22,15 +22,13 @@ Follow these steps to set up and run the application:
    ```bash
    source venv/bin/activate
    ```
-
-
-  ```bash
-   on Windows: venv\Scripts\activate )
+   ```bash
+   on Windows: venv\Scripts\activate
    ```
-
- ```python
- pip install -r requirements.txt
- ```
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. Create a Django project and name it config in the current directory:
 
