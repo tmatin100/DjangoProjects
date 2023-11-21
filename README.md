@@ -10,7 +10,7 @@ Follow these steps to set up and run the application:
    https://github.com/tmatin100/DjangoProjects
 
 
-3. Change directory into any sample project and Create a virtual environment and install dependencies:
+3. Change directory into any sample project, create a virtual environment and install dependencies:
    ```bash
    cd django_rest_framework
    ```
