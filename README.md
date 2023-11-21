@@ -20,7 +20,7 @@ Follow these steps to set up and run the application:
    ```
 
    ```bash
-   source venv/bin/activate
+   . venv/bin/activate
    ```
    ```bash
    on Windows: venv\Scripts\activate
