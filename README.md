@@ -39,7 +39,7 @@ Follow these steps to set up and run the application:
 5. Create a Django app named test_app:
 
    ```bash
-   on Windows: venv\Scripts\activate )
+   django-admin startapp test_app
    ```
 6. Run the server:
 
