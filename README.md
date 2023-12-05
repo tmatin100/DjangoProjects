@@ -39,7 +39,7 @@ Follow these steps to set up and run the application:
 5. Create a Django app named test_app:
 
    ```bash
-   django-admin startapp test_app
+   python manage.py startapp
    ```
 6. Run the server:
 
